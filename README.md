@@ -39,7 +39,7 @@ Each branch contains the code on each part of the tutorial:
 1. Clone the repo:
 
 ```
-git clone https://github.com/anchetaWern/React-Native-Food-Delivery.git
+git clone https://github.com/0xCryptoAngel/React-Native-Food-Delivery.git
 ```
 
 2. Create a new React Native app for each project
